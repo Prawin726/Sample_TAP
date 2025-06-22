@@ -1,1 +1,2 @@
-"This is the first program that i want be achieve."
+"This is the first program that i want be achieve." 
+then the final output of the speed goes to end at the king
